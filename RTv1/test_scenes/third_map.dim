@@ -1,0 +1,25 @@
+Camera:
+	pos=0.0;2.0;-10.0
+	rot=20.0;0.0;0.0
+Sphere:
+	pos=0.0;0.0;0.0
+	rad=2.8
+	col=41.0;213.0;219.0
+Light:
+	pos=8.0;4.0;-3.0
+	pow=0.5
+Light:
+	pos=-8.0;4.0;-3.0
+	pow=0.5
+Light:
+	pos=8.0;-4.0;-3.0
+	pow=0.5
+Light:
+	pos=-8.0;-4.0;-3.0
+	pow=0.5
+Light:
+	pos=0.0;6.0;-3.0
+	pow=0.5
+Light:
+	pos=0.0;-6.0;-3.0
+	pow=0.5
