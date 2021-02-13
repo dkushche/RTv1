@@ -36,6 +36,8 @@ void			optimaze_light(t_obj **light)
 
 int				my_key_funct(int k, void *param)
 {
+	(void)param;
+
 	param = NULL;
 	if (k == 53)
 		exit(0);
